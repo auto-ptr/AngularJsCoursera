@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.webjars.bower:angular-1.1.6:1.2.16" type="repository">
+    <properties maven-id="org.webjars.bower:angular-1.1.6:1.2.16" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/bower/angular-1.1.6/1.2.16/angular-1.1.6-1.2.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
